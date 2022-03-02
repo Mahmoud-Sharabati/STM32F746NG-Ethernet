@@ -1,0 +1,3 @@
+NOTE: The following link is for STM32F7 but it works Perfectly with STM32F4
+
+https://youtu.be/I9KDN1o6924
